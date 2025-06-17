@@ -48,7 +48,7 @@ This repository contains code to identify and analyze rare disease patients with
 - Captures **antiviral treatments**:
   - Paxlovid
   - Molnupiravir
-  - Bebtelovimab
+ 
 
 ### 🏥 Acute COVID-19 Severity Analysis
 - Measures severity of acute infection:
